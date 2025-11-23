@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "294924215373",
+    "project_id": "openvision-24918",
+    "storage_bucket": "openvision-24918.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:294924215373:android:a848090e44c96e6f462804",
+        "android_client_info": {
+          "package_name": "com.example.openvision"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyY0qSPNt85O0S2J0YFujzrAOBHJFsmPQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
